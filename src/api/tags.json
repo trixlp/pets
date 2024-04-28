@@ -1,0 +1,10 @@
+{
+    "status": "success",
+    "types": [
+        {
+            "id": 1,
+            "name": "test_tag1"
+        }
+    ],
+    "date": "2023-05-22 21:00:19"
+}

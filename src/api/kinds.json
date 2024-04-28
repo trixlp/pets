@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "kinds": [
+        {
+            "id": 6,
+            "kind_name": "test_kind1",
+            "type_kind": 1
+        },
+        {
+            "id": 7,
+            "kind_name": "test_kind2",
+            "type_kind": 1
+        }
+    ],
+    "date": "2023-05-22 22:24:08"
+}

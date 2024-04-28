@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "types": [
+        {
+            "id": 1,
+            "name": "test_category1"
+        },
+        {
+            "id": 2,
+            "name": "test_category1"
+        }
+    ],
+    "date": "2023-05-22 20:51:50"
+}

@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "user_id": "0187ff14-dc44-7687-9067-e8938e01ccea",
+    "date": "2023-05-11 06:06:39",
+    "pets": [
+        {
+            "id": "01880811-80d5-7422-b3e5-62a8a9a84b2b",
+            "height": 1.25,
+            "weight": 11,
+            "sex": "male",
+            "birthDate": "2010-03-03 00:13:13",
+            "name": "Pet name",
+            "kind_name": "test_kind1",
+            "type_name": "test_type1",
+            "type_id": 1
+        },
+        {
+            "id": "01880815-dd08-7fff-a9df-0b53b7f40c1e",
+            "height": 1.25,
+            "weight": 11,
+            "sex": "male",
+            "birthDate": "2010-03-03 00:13:13",
+            "name": "Pet name",
+            "kind_name": "test_kind1",
+            "type_name": "test_type1",
+            "type_id": 2
+        },
+        {
+            "id": "0188081c-6019-7962-868c-e6914946ecfd",
+            "height": 1.25,
+            "weight": 11,
+            "sex": "male",
+            "birthDate": "2010-03-03 00:13:13",
+            "name": "Pet name",
+            "kind_name": "test_kind1",
+            "type_name": "test_type1",
+            "type_id": 3
+        }
+    ]
+}
